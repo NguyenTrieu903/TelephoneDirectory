@@ -1,0 +1,4 @@
+﻿  QuanLiDanhBa.cpp
+C:\Users\MyPC\Desktop\QuanLiDanhBa\QuanLiDanhBa\QuanLiDanhBa.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MyPC\Desktop\QuanLiDanhBa\QuanLiDanhBa\QuanLiDanhBa.cpp(145): warning C4715: 'TimNode': not all control paths return a value
+  QuanLiDanhBa.vcxproj -> C:\Users\MyPC\Desktop\QuanLiDanhBa\Debug\QuanLiDanhBa.exe
